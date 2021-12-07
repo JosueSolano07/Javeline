@@ -1,0 +1,29 @@
+body, html {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    
+}
+body {
+  margin:0;
+}
+.logo {
+    height:100px;
+    margin-top: 60px;
+}
+
+.text-description {
+    letter-spacing: 2px;
+    font-family: sans-serif;    
+}
+
+.form-control {
+    background: transparent !important;
+    color: #fff !important;
+}
+
+a .fab {
+    color: #ffc;
+    font-size: 30px;
+    margin: 0 10px;
+}
